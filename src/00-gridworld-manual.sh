@@ -1,0 +1,1 @@
+python gridworld.py -m
